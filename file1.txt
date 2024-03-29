@@ -1,12 +1,9 @@
 hello there filefile 1
 dsdfwd
-<<<<<<< Updated upstream
 This is afetr stashing 
 wijwelkfnqwf
 wqerkjvneqrlvnfqelvwqvvq
 eefv jnef viefnvlwkevrwe
 qwvnelvnrevg
-=======
 
 THIS IS BEFORE STASHING
->>>>>>> Stashed changes

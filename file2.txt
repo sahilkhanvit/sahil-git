@@ -6,9 +6,5 @@ THIS IS BEFORE STASHING FILE 2
 fsdagheughwerougher
 feroiugherough
 
-<<<<<<< Updated upstream
-This is after stashing i am putting in a new file ok broooo
-=======
 after adding adding this brooo
 
->>>>>>> Stashed changes
